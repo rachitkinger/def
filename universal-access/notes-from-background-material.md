@@ -77,7 +77,7 @@ Some of the things that Colombia and Turkey have done are:
 4. provision of public WiFi hotspots by using USAF
 
 Public WiFi is a major opportunity. See chart below:
-![public wifi users](images/public-wifi.PNG)
+![public wifi users](images/public-wifi.png)
 
 Govertnments are betting big on public WiFi. In India, the government recently announced its intention to roll out free public WiFi to over 1050 villages across the country, as part of its **Digital Village** programme. Each village will have a WiFi hotspot installed, which villagers can access using their mobile phones.
 
