@@ -1,0 +1,62 @@
+---
+title: "India specific notes"
+author: "Rachit Kinger"
+date: "15 August 2017"
+output: 
+  html_document: 
+    fig_caption: yes
+    fig_height: 3
+    fig_width: 5
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Notes to inform next steps    
+India has a National e-Gov Plan 2006 that connected all Community Development Blocks (CDB) by a State Wide Area Network (SWAN) that aims to provide at least 8Mbps broadband. To connect the blocks to the lower level panchayats and ultimately to all villages, the Indian government in 2012 tasked the Bharat Broadband Network Limited (BBNL) with implementing the National Optical Fibre Network (NOFN), which entailed laying an additional 500,000 kilometres of optical fibre cables.  
+
+```{r, out.width = "400px", echo = FALSE, fig.align= "center"}
+knitr::include_graphics("images/admin-struc.png")
+```  
+
+**Current status and challenge:** In its first phase, the BBNL was able to connect 168 blocks to 6,410 Panchayats –far lower than the 3,018 blocks that it planned to link with 103,614 panchayats in its first two years of operation. If and when this is achieved, another few hundred thousand kilometres of cables will need to be rolled out to connect each panchayat to the villages under its jurisdiction.  
+
+## Specific challenges highlighted by DEF in their report  
+1. Bandwidth issues
+    a. availability - poor service by BSNL who manages SWANs, causing lots of downtime  
+    b. carraige - ISPs don't provide required power to transmit strong wireless signals. They also don't share twoers for connecting user equipment & client devices  
+    c. processing time - obtaining a leased line from ISP is time-consuming even after all docs have been submitted. This is due to 3-level coordination with all stakeholders who provide back-end bandwidth. Takes 3-4 months to obtain requested connection  
+    d. cost - last mile connectivity is 4X higher  
+2. Legal issues  
+    a. spectrum - 2 available unlicensed free bands (2.4GHz and 5.8GHz). Both are more or less line-of-sight. 2.4 GHz which is limited line-of-sight tends to be over crowded near urban areas and results in data collision. 5.8 GHz can transfer more data but requires clear line-of-sight hence more expensive to build.  
+    b. Govt permits - towers higher than 5m require multiple approvals (in addition to the ISP approvals)  
+    c. Outdate regulation - Telecom Regulatory Authority of India (TRAI) regulations stipulate that those without class A, B or C ISP licenses cannot sell bandwidth to clients. Hence, a rural ISP using free unlicensed spectrum has to either become a franchisee of a licensed ISP to charge downstream clients, or share the unlicensed free spectrum resource with communities at its own risk.  
+3. Infrastructure issues  
+    a. tower location - due to land ownership appropriate tower location is difficult.  
+    b. power - no stable power supply. solar power is the only solution in many cases  
+    c. weather protection - this increases cost of set-up  
+    d. device procurement - spare parts and back-up isn't easily available, increases maintenance cost.  
+4. HR issues  
+    a. local connection - difficult to find people to support this. training local people is the only option. training is expensive & time-consuming  
+  
+## Next steps  
+* W4C is an effective way to provide last mile connectivity to remote villages  
+* Existing class A ISPs hesitant to offer bb services b/c commercially unviable  
+* Policy needs to promote Rural ISPs (RISPs)  
+
+Reccommendations from Open Specturm Summit Dec-2013:  
+1. vital for policy makers to understand the importance of digital inclusion  
+2. reduce deployment & access cost & delays: need for a harmonised & time bound regulatory approval process for providing last mile connectivity. Needs to be integrated with policy for RISP  
+3. DoT and TRAI better accelrate the use of unlicensed spectrum and delicense other bands  
+4. mandatory for Class A, B & C ISPs to share bandwidth with RISP  
+5. promote RISP as sustainable social enterprise  
+6. RISP to provide info sharing hubs in addition to providing connectivity solutions  
+7. if connectivity needs to subsidised - subsidise the end user and not the ISP  
+8. RISPs should be encouraged to develop wireless networks  
+
+
+
+
+  
