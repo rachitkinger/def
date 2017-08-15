@@ -26,4 +26,4 @@ Six specific policy suggestions of the report:
 Current status of affordability
 -------------------------------
 
-![cost of 1gb prepaid mobile internet](https://github.com/rachitkinger/def/universal-access/images/cost-of-1gb.PNG?raw=true)
+![cost of 1gb prepaid mobile internet](images/cost-of-1gb.PNG)
