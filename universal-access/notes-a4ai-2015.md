@@ -45,3 +45,29 @@ SDGs 9c (universal access) and 5b (enhancing use of ICT to empower women) are un
     -   Find out --&gt; how many men are online in India for every woman online (and what is the world benchmark broken down by - best, worst, avg)
 
 5.  Integrated policy making that balances - demand & supply, regulation & competition, fixed-line & mobile, PAS & individual subscription
+
+### Report notes
+
+Affordability as defined by UN (500MB for 5%) is increasing but Internet growth is slowing down --- 7.4% in 2014, 6.9% in 2015 --- (**to-do:** find out what this number is for India & create international benchmarks). Report argues that this is because of combined effect of poverty and inequality. While poverty is decreasing, income inequality is increasing as well. Net result is that avg income is growing and therefore 500MB as 5% of income tends to be more affordable but lower income groups tend to get priced out. (**to-do:** find out what the avg income trend is for India and what prop of pop<sup>n</sup> lives below it. Compare this with international benchmarks).
+Digital divide is a poverty and a gender divide.
+
+### Affordability Drivers Index (ADI)
+
+ADI examines factors associated with two sub-indexes:
+1. Infrastructure
+2. Access
+
+In addition to these there is a the device cost and the cost associated with maintaining a device which the report acknowledges has been ignored in the ADI. When cost of phone @ $48 is included in the report affordability across the index falls by 20% but for India and Pakistan it falls by 60%. Govts can reduce taxes on smartphones - Côte d’Ivoire has reduced taxes to 6.6% from 26%.
+
+Four broad categories to analyse:
+1. Competition policy
+2. Broadband policy
+3. Universal Access
+4. Infrastructure sharing
+5. Spectrum policy
+
+**No one policy** domain stands out as having the maximum influence on reducing price. This suggests that countries need a holistic perspective. No point focuing on supply while ignore demand.
+
+### Poverty & Inequality - mistaken affordability
+
+60% of countries have met UN's target of 500MB @ 5% (India is one of them) but despite that Internet penetration is low. For India 500MB costs 2.48% of per capita GNI but Internet penetration is 5.13%. For those living on less than $3.10/day cost of 500MB plan is 12% of income in India, and for those living on less than $1.90/day its at 19.5% of income. This is the effect of income inequality.
