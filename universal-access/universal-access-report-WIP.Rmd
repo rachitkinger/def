@@ -1,0 +1,44 @@
+---
+title: "Universal Access WIP"
+author: "Digital Empowerment Forum"
+date: "29 August 2017"
+output: 
+  word_document:
+        toc: true
+        toc_depth: 3
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+
+# India's Goal for Universal Access to Mobile Connectivity
+Name all the policies and give a brief introduction to each
+
+## Policy 1
+## Policy 2
+## Policy 3
+
+# Current State
+Assess the current state against stated objectives of these policies
+
+## Policy 1
+## Policy 2
+## Policy 3
+
+# Major Gap Areas
+List out the major identified gaps between goals and current state of affairs.
+
+## Gap 1
+## Gap 2
+## Gap 3
+
+# Major challenges
+## Challenge 1
+## Challenge 2
+
+# Conclusion
