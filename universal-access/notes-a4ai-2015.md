@@ -1,20 +1,13 @@
 A4AI 2015
 ================
 
-<style type="text/css">
-p, ul, ol{ /* Normal  */
-    font-family: Georgia;
-    font-size:17px;
-    color: #000
-    }
-</style>
 Affordability Report 2015-16
 ----------------------------
 
-***Release date:** February 2016*
-***Dataset:** 51 developing & emerging countries*
-***Data on:** Policy frameworks. Analyses what is working to expand acess to affordable broadband.*
-***Theme:** how poverty, income & gender inequality are masking the true state of affordability. What actions must policymakers take to overcome these barriers to access & make universal access a reality.*
+_**Release date:** February 2016_
+_**Dataset:** 51 developing & emerging countries_
+_**Data on:** Policy frameworks. Analyses what is working to expand acess to affordable broadband._  
+_**Theme:** how poverty, income & gender inequality are masking the true state of affordability. What actions must policymakers take to overcome these barriers to access & make universal access a reality._
 
 ### Highlights
 
