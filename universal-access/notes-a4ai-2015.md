@@ -4,10 +4,10 @@ A4AI 2015
 Affordability Report 2015-16
 ----------------------------
 
-_**Release date:** February 2016_
-_**Dataset:** 51 developing & emerging countries_
+_**Release date:** February 2016_  
+_**Dataset:** 51 developing & emerging countries_  
 _**Data on:** Policy frameworks. Analyses what is working to expand acess to affordable broadband._  
-_**Theme:** how poverty, income & gender inequality are masking the true state of affordability. What actions must policymakers take to overcome these barriers to access & make universal access a reality._
+_**Theme:** how poverty, income & gender inequality are masking the true state of affordability. What actions must policymakers take to overcome these barriers to access & make universal access a reality._  
 
 ### Highlights
 
