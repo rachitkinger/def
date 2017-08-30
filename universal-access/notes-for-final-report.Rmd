@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 2. governance & services on demand
 3. digital empowerment of citizens
 
-![Digital India Vision](images/digital-india-vision.jpg)
+![Digital India Vision](images/digital-India-vision.jpg)
 
 Key pillars of Dgital India to consider:
 * [bb highways](http://digitalindia.gov.in/content/broadband-highways) ubiquitous connectivity
