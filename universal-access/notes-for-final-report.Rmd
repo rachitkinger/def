@@ -1,0 +1,52 @@
+---
+title: "notes for further research"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Notes for final report
+[Digital India](http://digitalindia.gov.in/content/programme-pillars) three key areas:
+1. digital infrastructure as a utility to every citizen
+2. governance & services on demand
+3. digital empowerment of citizens
+
+![Digital India Vision](images/digital-india-vision.jpg)
+
+Key pillars of Dgital India to consider:
+* [bb highways](http://digitalindia.gov.in/content/broadband-highways) ubiquitous connectivity
+* [universal access](http://digitalindia.gov.in/content/universal-access-mobile-connectivity) to mobile connectivity
+* [public Internet access programme](http://digitalindia.gov.in/content/public-internet-access-programme)
+* [Early harvest programmes](http://digitalindia.gov.in/content/early-harvest-programmes) - these are to be implemented within a short timeframe
+  + Public wifi hotspots - cities with a pop^n^ of 1M & tourist centres would be provided with public wi-fi hotspots
+  + Wifi in all unis on the National Knowledge Network (NKN)
+* Other projects:
+  + __Bharat Net__ - high speed digital highway to connect all 2.5 lakh Gram Panchayats. World's largest rural broadband (bb) connectivity project using optical fibre. Look at __BBNL - [Bharat Broadband Network Ltd](http://www.bbnl.nic.in/index.aspx)__
+  + BSNL's __Next Generation Network (NGN)__ - modernise
+  + BSNL's Wi-Fi hotspots throughout the country
+
+
+Digital India (DI) project is __coordinated by DeitY__ in collaboration with various Central Ministries/Departments and State Govts
+__PM__ is the chairman of the monitoring committee on DI
+All existing ongoing e-Gov initiatives have been revamped to align with the principles of DI
+
+#### Look up initiatives by DoT
+1. Bharatnet in 11 states
+2. Wi-Fi Hot spots
+3. Next Generation Networks (NGN)
+  * Look-up specifically C-DOT's launches like
+    + long distance Wi-Fi
+    + solar powered Wifi system
+
+#### Impact
+By 2019 DI would achieve the  following (to confirm):
+* broadband connectivity in all Panchayats
+* wifi in schools and unis
+* Publich wifi hotspots
+
+#### Other important things
+Open Sky Policy to use satellites to provide connectivity in remote areas. Is satellite tech feasible/affordable? Apparently National Telecom Policy 2012 talks about open sky policy. Need to simplify the process and reduce procedural delays in securing satellite bandwidth through a single window approach.
+
+MF Farooqui (Broadband India Chairman and former telecoms secy) believes that bb in India will have to be delivered by using multiple technologies and satellite tech should play it's part in delivering bb to remote areas.
