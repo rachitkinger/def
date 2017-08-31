@@ -3,10 +3,7 @@ title: "India specific notes"
 author: "Rachit Kinger"
 date: "15 August 2017"
 output: 
-  github_document:
-    fig_caption: yes
-    fig_height: 3
-    fig_width: 5
+  github_document
 ---
 
 ```{r setup, include=FALSE}
