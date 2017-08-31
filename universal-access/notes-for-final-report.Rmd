@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 **access** with a focus on
 * use of USAFs
 * PAS
-  + Look up Digital Village. Apparently Govt is rolling out free public wifi across 1050 villages in India. (is that a big number assuming there are millions of villages in India?)
+  + Look up Digital Village. Apparently Govt is rolling out free public wifi across 1050 villages in India. (is that a big number assuming there are 625k of villages in India?)
   + Look up [Wireless for Communities](http://wforc.in/)
 
 
@@ -63,3 +63,53 @@ By 2019 DI would achieve the  following (to confirm):
 Open Sky Policy to use satellites to provide connectivity in remote areas. Is satellite tech feasible/affordable? Apparently National Telecom Policy 2012 talks about open sky policy. Need to simplify the process and reduce procedural delays in securing satellite bandwidth through a single window approach.
 
 MF Farooqui (Broadband India Chairman and former telecoms secy) believes that bb in India will have to be delivered by using multiple technologies and satellite tech should play it's part in delivering bb to remote areas.
+
+### Notes from CIS-Telecom-Blogs
+_These notes are from blog posts relevant to telecom and go back all the way to May, 2011._
+
+[Blog date: 5-May-2011](https://cis-india.org/telecom/blog/spectrum-reforms)
+Spectrum Trading means exclusive rights to spectrum
+Spectrum Sharing means exactly what it implies
+Currently Spectrum Trading and Spectrum Sharing are mutually exclusive in India. Spectrum is currently sold with exclusive right to the telecom provider. It is based on old technology (60-70 years old) which assumes that there has not been any progress in managing intereference between providers. Spectrum trading constrains aggregate capacity in two ways:
+1. Each operator can only use part of the allotted capacity - i.e., spectum capacity by providers is hardly ever utilised beyond 5% ([source](http://goo.gl/qVyBv))
+2. large band provides much greater capacity than the sum of smaller bands
+
+Forward looking spectrum policies need to understand technicalities of spectrum occupancy, of the effects of spectrum aggregation versus fragmentation, and of technologies like multiple antenna effects (multiple-input and multiple-output, or MIMO), which enable efficient use of spectrum and improve functional attributes of higher freq.
+
+[Blog date: 3-Aug-2017](http://organizing-india.blogspot.co.uk/2017/08/a-new-telecom-policy-that-works.html)
+Telco operators debt is Rs.4.6 trillion. This is due to aggressive bids for spectrum auctions. Aggravated by shrinking revenues and price wars. There is need for network investment, greater reach and delivery but can't be accomplished because of "want of capital, enabling policies, and orderly markets". Safe to say Indian telco sector is in a state of crisis.
+
+[Blog date: 31-Jan-2017](https://cis-india.org/telecom/blog/business-standard-january-31-2017-and-organizing-india-blogspot-february-1-2017-shyam-ponappa-a-pathfinding-approach-for-digital-india)
+**On Optical Fibre Cable (OFC)** _"Most people believe an optical fibre cable (OFC) connection is necessary for broadband. While largely true, this is often financially viable only in urban agglomerations. What is less known is that trading companies use wireless links between New York and Chicago for high-speed electronic trades.[1] For people outside urban clusters, wireless is a less expensive alternative to fibre. They get only a few megabits per second, but realistically, ubiquitous broadband at 2 Mbps would be great."_ This puts into perspective that a bb policy can only have a limited impact. It is much faster and better to focus on wireless policy to reach remote and rural areas.
+
+OFC isn't ideal for remote areas as costs are too high, especially in hilly terrain. Estimates of cost of laying OFC vary between Rs.1 lakh to Rs.4 lakh per km. Another challenge with OFC is the number of cuts per km per month. Average number of cuts per km per month in India is between 12-14 while international benchmark is 0.7. This requires frequent repairs.
+Also, wireless technology is needed to extend connectivity from the fibre to villages, and cellular network costs rise with less bandwidth. For instance, one estimate is that excluding spectrum costs, a network using 5 MHz costs nearly 70 percent more than using 20 MHz.
+
+Therefore, there are limits to how much we can rely on OFC for universal access. It's good for urban agglomeration but not for rural.
+Several proven wireless technologies are not permitted in India, although the Telecom Regulatory Authority of India has recommended their use. Methods to increase connectivity like those listed below are urgently needed, with requisite environmental safeguards such as the use of renewable energy.
+* 60 GHz (V band) wireless gigabit for short-haul;
+* 70 and 80 GHz (E band) for multi-gigabit backhaul up to 5 km;
+* TV White Space for the middle mile from the fibre to users in villages up to 8-10 km away in a single hop;
+
+Additional steps, e.g.:
+* Increasing unlicensed spectrum in the 5.8 GHz band from 50 MHz to 80 MHz to enable 866 Mbps per channel, or more for gigabit capacity;
+* Enabling secondary sharing of spectrum bands such as TV White Space, which has the possibility of existing Indian IPR establishing domestic manufacturing and dominating this niche;
+
+Remaining blog posts to read
+
+[Blog1](https://cis-india.org/telecom/blog/cis-submission-trai-note-on-interoperable-scalable-public-wifi)
+[Blog2](https://cis-india.org/telecom/blog/business-standard-september-1-2016-shyam-ponappa-digital-india-needs-these-policy-changes)
+[Blog3](https://cis-india.org/telecom/blog/cis-submission-to-trai-consultation-on-proliferation-of-broadband-through-public-wifi-networks)
+[Blog4](https://cis-india.org/telecom/blog/business-standard-april-6-2016-shyam-ponappa-breakthroughs-needed-for-digital-india)
+[Blog5](https://cis-india.org/telecom/blog/business-standard-october-1-2015-shyam-ponappa-digital-india-now-to-work)
+[Blog6](https://cis-india.org/telecom/blog/comments-on-dot-panel-report-via-mygov)
+[Blog7](https://cis-india.org/telecom/blog/funding-of-national-optic-fibre-network-who-is-accountable)
+[Blog8](https://cis-india.org/telecom/blog/organizing-india-blogspot-shyam-ponappa-june-4-2015-unfettering-stranded-capacity)
+[Blog9](https://cis-india.org/telecom/blog/business-standard-op-ed-may-6-2015-shyam-ponappa-stranded-capacities-and-greater-expectations)
+[Blog10](https://cis-india.org/telecom/blog/organizing-india-blogspot-shyam-ponappa-december-4-2014-a-roadmap-for-digital-india)
+[Blog11](https://cis-india.org/telecom/blog/otts-eating-into-our-revenue-telcos-in-india)
+[Blog12](https://cis-india.org/telecom/blog/organizing-india-blogspot-shyam-ponappa-may-1-2014-an-infrastructure-road-map)
+[Blog13](https://cis-india.org/telecom/blog/an-introduction-to-spectrum-sharing)
+[Blog14](https://cis-india.org/telecom/blog/organizing-india-blogspot-shyam-ponappa-centre-or-state-driven-development)
+[Blog15](https://cis-india.org/telecom/blog/organizing-india-blogspot-december-5-2013-shyam-ponappa-for-a-telecom-revival)
+[Blog16](https://cis-india.org/telecom/blog/trai-consultation-paper-on-spectrum)
