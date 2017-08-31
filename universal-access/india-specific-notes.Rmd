@@ -1,8 +1,8 @@
-assets/---
+---
 title: "India specific notes"
 author: "Rachit Kinger"
 date: "15 August 2017"
-output: 
+output:
   html_document:
     fig_caption: yes
     fig_height: 3

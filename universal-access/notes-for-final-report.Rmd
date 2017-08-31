@@ -6,6 +6,19 @@ output: github_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+# Areas to analyse
+**infrastructure policies** with a focus on
+* infrastructure sharing
+* effective regulation for competition
+* spectrum policy
+* bb policy
+
+**access** with a focus on
+* use of USAFs
+* PAS
+  + Look up Digital Village. Apparently Govt is rolling out free public wifi across 1050 villages in India. (is that a big number assuming there are millions of villages in India?)
+  + Look up [Wireless for Communities](http://wforc.in/)
+
 
 # Notes for final report
 [Digital India](http://digitalindia.gov.in/content/programme-pillars) (DI) has three key areas:
