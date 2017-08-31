@@ -3,10 +3,7 @@ title: "India specific notes"
 author: "Rachit Kinger"
 date: "15 August 2017"
 output:
-  html_document:
-    fig_caption: yes
-    fig_height: 3
-    fig_width: 5
+  github_document
 ---
 
 ```{r setup, include=FALSE}
@@ -17,9 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 # Notes to inform next steps
 India has a National e-Gov Plan 2006 that connected all Community Development Blocks (CDB) by a State Wide Area Network (SWAN) that aims to provide at least 8Mbps broadband. To connect the blocks to the lower level panchayats and ultimately to all villages, the Indian government in 2012 tasked the Bharat Broadband Network Limited (BBNL) with implementing the National Optical Fibre Network (NOFN), which entailed laying an additional 500,000 kilometres of optical fibre cables.
 
-```{r, out.width = "400px", echo = FALSE, fig.align= "center"}
-knitr::include_graphics("images/admin-struc.png")
-```
+![Village Admin Structure](assets/admin-struc.png)
 
 **Current status and challenge:** In its first phase, the BBNL was able to connect 168 blocks to 6,410 Panchayats –far lower than the 3,018 blocks that it planned to link with 103,614 panchayats in its first two years of operation. If and when this is achieved, another few hundred thousand kilometres of cables will need to be rolled out to connect each panchayat to the villages under its jurisdiction.
 
