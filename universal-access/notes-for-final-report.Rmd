@@ -8,14 +8,14 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # Notes for final report
-[Digital India](http://digitalindia.gov.in/content/programme-pillars) three key areas:
+[Digital India](http://digitalindia.gov.in/content/programme-pillars) (DI) has three key areas:
 1. digital infrastructure as a utility to every citizen
 2. governance & services on demand
 3. digital empowerment of citizens
 
 ![Digital India Vision](images/digital-India-vision.jpg)
 
-Key pillars of Dgital India to consider:
+Key pillars of DI to consider:
 * [bb highways](http://digitalindia.gov.in/content/broadband-highways) ubiquitous connectivity
 * [universal access](http://digitalindia.gov.in/content/universal-access-mobile-connectivity) to mobile connectivity
 * [public Internet access programme](http://digitalindia.gov.in/content/public-internet-access-programme)
@@ -28,7 +28,7 @@ Key pillars of Dgital India to consider:
   + BSNL's Wi-Fi hotspots throughout the country
 
 
-Digital India (DI) project is __coordinated by DeitY__ in collaboration with various Central Ministries/Departments and State Govts
+DI project is __coordinated by DeitY__ in collaboration with various Central Ministries/Departments and State Govts
 __PM__ is the chairman of the monitoring committee on DI
 All existing ongoing e-Gov initiatives have been revamped to align with the principles of DI
 
