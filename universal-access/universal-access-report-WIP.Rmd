@@ -1,8 +1,8 @@
 ---
-title: "Universal Access WIP"
+title: "Spectrum Policy Hurdles WIP"
 author: "Digital Empowerment Forum"
 date: "29 August 2017"
-output: 
+output:
   word_document:
         toc: true
         toc_depth: 3
@@ -13,12 +13,35 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Introduction
+# Introduction  
+<remember the objective is to map the spectrum policy hurdles that are making universal access to Internet difficult>  
 
+India is one of the largest telecom and Internet market in the world. Despite that it is also home to one of the largest populations not connected to the Internet. This so called "digital divide" is <mention something here>.  
 
-# India's Goal for Universal Access to Mobile Connectivity
-Name all the policies and give a brief introduction to each
+<describe the not-connected population>
+<what is the size?>   
+<who are they? what do we know about them>  
+<where do they live?>    
+<what is their socioeconomic status?>  
+<what is the rural urban divide>  
 
+One aspect of digital divide is the connectivity divide or connectivity gap, which is simply a measure of the number of people who do not have access to the Internet. Historically, the main challenge has been of extending connectivity infrastructure at affordable prices to end-users, a challenge often referred to as "last mile connectivity". Factors that lead to the problem of last mile connectivity gap are commonly acknowledged and documented: lack of affordable access to mobile broadband, infrastructure barriers (spectrum policy, taxes, etc.), high cost to serve in low density or hard to reach areas. 
+
+One emerging solution has been that of community networks. This empowers the local communities to actively connect themselves by building their own networks. But to truly enable a movement around community networks to succeed challenges around innovative licensing, access to spectrum, and funding opportunities need to be overcome.  
+
+# Research Objective  
+what and why?
+"The primary objective of this document is to describe the legal issues surrounding spectrum allocation and management, licensing regulation, and bandwidth issues in India as they relate to community networks. The report outlines the technological and infrastructural challenges from a policy perspective in India. Finally, it also provides policy recommendations and suggestions to assist in deploying community networks in India." - except that this talks about mobile Internet connectivity and not just community networks.   
+
+# Methodology  
+"The research for this report draws on academic literature, and government and regulatory documents to analyze existing policies and programs. Two mapping methodologies were adopted, one that examined existing policies"
+
+# India's Goal for Universal Access to Internet  
+The Digital India program targets to aggressively progress the state of Internet penetration in the country. With specific targets to achieve by the year 2019, the Digital India program aims to accomplish three core goals: creating infrastructure, delivering services digitally, and increasing digital literacy.  
+
+The program has a far-reaching agenda which spans multiple themes like universal access, e-government services, employment, and digital literacy. From the point of view of universal access to Internet it includes universal phone access, broadband access to all rural areas, public Internet access hotspots in hard to reach or serve areas, Wi-Fi connectivity for all schools and universities. The specific targets that the program has set out for itself include high speed Internet to 250,000 village Panchayats, 400,00 public Internet access points, and Wi-Fi connectivity in 250,00 schools.  
+
+Below we take a look at the specific policies that the Government has spelt out under the Digital India program to help achieve universal access to Internet.  
 ## Policy 1
 ## Policy 2
 ## Policy 3

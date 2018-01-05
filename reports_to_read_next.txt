@@ -1,0 +1,31 @@
+Read these reports next:
+1. Deloitte report - broadband infrastructure for transforming india
+2. state of broadband 2016 (global report) skim through this
+3. Spectrum policy in emerging markets (Vodafone report) skim through this
+4. Framework for evolving spectrum policy - lessons from India
+
+
+## thinking again 
+the job is to look at spectrum policy hurdles in universal access to Internet. 
+
+Why spectrum policy? Because we believe Internet can be made available universally only via spectrum (ie. wifi) and not fixed line. 
+
+To make it universally available the main focus is to reach underserved or (un-served) areas and/or groups of population. 
+
+Where are these people? Rural areas with small pop, Hard to reach areas like hills, Urban slums. 
+
+Why can't they get to internet right now? 
+availability, affordability
+
+Why can't it become available to everyone?
+hard to reach, e.g. hilly terrain (can new tech solve this?) 
+no business case (private suppliers)
+
+what alternatives exist?
+non-private options - by govt
+non-private options - by local communities
+semi-private options - local entreprenuers
+
+what can govt do to establish PAS? What are the challenges?
+infrastructure sharing (spectrum sharing)
+community internet by using unallocated spectrum 

@@ -95,6 +95,8 @@ Additional steps, e.g.:
 * Increasing unlicensed spectrum in the 5.8 GHz band from 50 MHz to 80 MHz to enable 866 Mbps per channel, or more for gigabit capacity;
 * Enabling secondary sharing of spectrum bands such as TV White Space, which has the possibility of existing Indian IPR establishing domestic manufacturing and dominating this niche;
 
+Additional note on current connectivity in India - [here](https://yourstory.com/2017/08/indian-smartphone-poor-internet/)
+
 Remaining blog posts to read
 
 [Blog1](https://cis-india.org/telecom/blog/cis-submission-trai-note-on-interoperable-scalable-public-wifi)
@@ -113,3 +115,80 @@ Remaining blog posts to read
 [Blog14](https://cis-india.org/telecom/blog/organizing-india-blogspot-shyam-ponappa-centre-or-state-driven-development)
 [Blog15](https://cis-india.org/telecom/blog/organizing-india-blogspot-december-5-2013-shyam-ponappa-for-a-telecom-revival)
 [Blog16](https://cis-india.org/telecom/blog/trai-consultation-paper-on-spectrum)
+
+
+# Spectrum challenges in India
+[Source - Brookings Institute Research](https://www.brookings.edu/wp-content/uploads/2016/06/Spectrum-Policy-in-India8515.pdf)
+
+1. Lack of available spectrum
+Insufficient spectrum bands available. Other countries (developed and developing) have many more licensed spectrum bands available. While low numbers is itself a problem another problem in India is that on average the amount of spectrum per band is also small, 13MHz on average. It is even lower than Bangladesh (37.4 MHz) and Malaysia (75 MHz)
+
+
+Country | Current | Pipeline | Hz/Subscriber
+--------| --------| ---------| -------------
+USA     |  608    | 55       |  2.1
+Austrailia  | 478  | 230   |  22.8
+Brazil  | 554   | 0   | 2.0
+China  | 227  |  360 | 0.5
+U.K  | 353  | 265  | 7.9
+India  | 221  | 10  |  0.2
+
+  - One reason for shortage is also that Government departments and defense have held large amounts of spectrum making it unavailable for commercial use.
+  - Spectrum sharing has now been approved by the government. Companies can now share unutilised spectrum with other operators for a period of 5 years, for a fee.
+
+
+2. High costs
+Analysts have documented that "spectrum cost in India is one of the highest in the world.". Its spectrum pricing runs around “25 times costlier than the countries such as U.S., France, Singapore, Germany, Spain and Sweden.” Business leaders complain that spectrum is scarce, fragmented, overpriced, and inflexible. By having licenses that run just for 20 years, government policies force firms into expensive infrastructure investments without sufficient time to reap the financial rewards of those costs.
+
+3. New technologies and the use of unlicensed spectrum:
+Emerging technologies require greater access to and usage of spectrum. With the rollout of 4G LTE services, LTE-U (unlicensed) is an innovation that is being worked on in other regions. It is an improvement the Indian government should maintain awareness of as it works to provide increased coverage and capacity in addition to seamless mobility. This technology will work in coordination and within the same unlicensed bands as “Wi-Fi”. Greater use of unlicensed spectrum could be helpful to businesses and consumers. One step to improve wireless access is through the parts of the radio waves having no exclusive licenses. Users can operate Wi-Fi devices over short distances and gain access to particular services at an affordable price. In the developing world, this is a valuable way to provide affordable services for poor people and help them utilize digital products
+
+
+# Notes from Internet Society report (community networks)
+
+- Spectrum challenges from POV of enabling community networks
+- Spectrum challenges from POV of making it easy for operators to serve these areas (spectrum sharing, spectrum sub-licensing)
+
+1. From Community Networks' POV
+- spectrum scarcity
+- inefficient use of spectrum
+  - exclusive licenses (traditional licensing)
+  - broad licenses (exclusive license to a large geographic area with little or no economic incentive to provide service to all)
+- Access to spectrum is expensive
+
+Some solutions:
+ - access to unlicensed spectrum
+   - e.g. W4C by DEF
+   - e.g. Pamoja Net in Democratic Republic of Congo
+   - e.g. Chancay-Huaral Project in Peru
+ - sharing licensed spectrum or dynamic spectrum access
+   - things like Television White Spaces (TVWS)
+   - e.g. Citizen Connect in Namibia, Project Kgolagano in Botswana
+   - e.g. TVWS Experimental Licenses in India - gov issued 8 experimental licenses in the 470-582 MHz band
+   - e.g. Citizens Band Radio Service in US where spectrum currently occupied by Department of Defense is shared on a secondary and tertiary basis, by licensed users and lightly-licensed users
+ - Innovative approach to licensing & spectrum mgt e.g., "social purpose license" at a much lower spectrum fee
+    - e.g. India: Supreme Court decided that "spectrum such as TVWS or 5 GHz spectrum, could be allocated on a license-exempt or unlicensed basis as long as such a policy is 'backed by a social or welfare purpose' such a susing connectivity to increase social and economic inclusion"
+    - e.g. Mexico - has set aside some spectrum for social purpose use. The community served must be < 2,500 people, or be an indigenous region or otherwise designated for such use.
+
+# Notes from CIS-India Report on Unlicensed Spectrum
+_This report also provids a comparative analysis of policy on unlicensed spectrum by various countries_
+
+One legacy concern around which most spectrum policies have been built is of interference. This is understandable because the earliest use case of use of spectrum was for mission critical long range services and one couldn't afford interference in such a scenario however, technology has evolved to counter that problem (OFDMA, Spread Spectrum Frequency Hopping, BDMA, FMC, ultra wide band (UWB), etc.) These technonology innovations facilitate spectrum sharing and enabling spectrum signals to coexist with each other w/o interference.
+
+**"RF spectrum allocation is harmonized on an international level through the Radiocommunication Sector within the International Telecommunication Union (ITU)."**
+
+1.4 The Indian Department of Telecommunications (DoT) requires operators to obtain a licence before being granted the right to use radio spectrum. There are exceptions to this rule, such as the Citizens Band in the 27 MHz range and the Wi-Fi bands in the 2.4 GHz and 5.8 GHz ranges. **India‟s National Telecom Policy 2012 recognizes the need to reserve more frequencies for unlicensed use.** However, the country is still behind when compared to unlicensed spectrum availability in the U.S. and UK which have already integrated innovative spectrum management techniques in their telecom policies. These policies aim to create a flexible, market-driven approach to spectrum regulation and management through integrating spectrum sharing techniques and meeting the industry demand for unlicensed spectrum. India needs to follow suit in order to provide connectivity to remote/rural regions and encourage further innovation in the telecom domain. Therefore, additional frequencies should be freed up for unlicensed use according to demands from community groups, industry bodies, and experts in the field, in line with international best practices.
+
+According to ITU, at the WRC in 2003, 5-6 GHz range was made unlicensed. US, UK and Canada have done that. India has done so partially.
+
+IMPORTANT POINTS FROM ITU:
+- "According to the ITU, both vision and commitment are needed when implementing policies for spectrum unlicensing, which result in the most efficient and optimum sharing of the resource. Spectrum policies should motivate innovation, be flexible, and set out spectrum users‟ rights"
+- " there should be a framework for compliance monitoring as well as dispute resolution"
+
+### Indian perspective on spectrum allocation and unlicensing of spectrum  
+Supreme Court declared airwaves to be a public property (1995). Presently, a large part of RF spectrum is controlled by the govt. with only a minimal amount for unlicensed use, but there is a growing recognition of the importance of allocating more unlicensed spectrum. Look at table A in the [report](https://cis-india.org/telecom/unlicensed-spectrum-brief.pdf) to see the unlicensed allocation.
+
+They are mostly for low power indoor use with some minor exceptions. This was done because controlling such indoor use was impractical.
+
+- It is consensual among Google, Microsoft, and the Internet Service Provider’s Association of India (ISPAI) that additional frequencies need to be unlicensed for broadband access
+  One of the reasons for this request is that the existing 50 MHz of licence-exempt spectrum in the 5.7 GHz band has become choked up as many ISPs switch to providing services using these unlicensed frequencies. The situation is the same in the case of the 2.4 GHz band, which has become overloaded due to the unavailability of more unlicensed spectrum
